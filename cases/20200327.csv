@@ -1,0 +1,37 @@
+county,age,count
+Benton,41-60,1
+Black Hawk,41-60,2
+Butler,61-80,1
+Cedar,41-60,1
+Cerro Gordo,61-80,1
+Clinton,41-60,1
+Dallas,18-40,1
+Dallas,81+,1
+Dickinson,61-80,1
+Dubuque,41-60,2
+Hardin,41-60,1
+Harrison,41-60,1
+Harrison,61-80,3
+Henry,81+,1
+Iowa,18-40,1
+Johnson,18-40,2
+Johnson,41-60,5
+Johnson,61-80,2
+Linn,18-40,3
+Linn,61-80,7
+Mahaska,41-60,1
+Monona,81+,1
+Marshal,18-40,1
+Montgomery,41-60,1
+Muscatine,41-60,1
+Page,61-80,1
+Polk,18-40,1
+Polk,41-60,1
+Polk,61-80,2
+Tama,81+,1
+Washington,18-40,1
+Washington,61-80,2
+Webster,18-40,1
+Winneshiek,18-40,1
+Woodbury,61-80,1
+Wright,41-60,1
