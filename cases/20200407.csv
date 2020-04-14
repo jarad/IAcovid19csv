@@ -1,0 +1,46 @@
+county,age,count
+Benton,41-60,1
+Black Hawk,18-40,3
+Buena Vista,41-60,1
+Delaware,61-80,1
+Des Moines,61-80,2
+Dubuque,18-40,1
+Dubuque,41-60,1
+Dubuque,61-80,1
+Greene,41-60,1
+Hamilton,18-40,1
+Henry,0-17,1
+Henry,18-40,1
+Henry,41-60,2
+Johnson,18-40,10
+Johnson,41-60,4
+Johnson,61-80,1
+Johnson,81+,1
+Linn,18-40,4
+Linn,41-60,5
+Linn,61-80,2
+Louisa,18-40,7
+Louisa,41-60,3
+Louisa,61-80,3
+Mahaska,41-60,1
+Marion,18-40,1
+Marshall,18-40,2
+Muscatine,0-17,2
+Muscatine,18-40,3
+Muscatine,41-60,3
+Muscatine,61-80,2
+Polk,18-40,1
+Polk,61-80,1
+Pottawattamie,41-60,1
+Scott,18-40,6
+Scott,41-60,5
+Scott,61-80,3
+Story,41-60,1
+Tama,61-80,3
+Tama,81+,3
+Warren,41-60,1
+Washington,18-40,1
+Washington,41-60,1
+Washington,61-80,2
+Washington,81+,1
+Woodbury,18-40,1
