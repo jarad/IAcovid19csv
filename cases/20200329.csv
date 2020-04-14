@@ -1,0 +1,27 @@
+county,age,count
+Cedar,61-80,1
+Cerro Gordo,41-60,1
+Cerro Gordo,61-80,1
+Dallas,18-40,1
+Dallas,61-80,1
+Dubuque,0-17,1
+Dubuque,41-60,2
+Dubuque,61-80,1
+Henry,61-80,1
+Iowa,41-60,1
+Jasper,61-80,1
+Johnson,18-40,2
+Johnson,41-60,2
+Linn,18-40,1
+Linn,41-60,3
+Linn,61-80,2
+Marshall,41-60,1
+Polk,18-40,2
+Polk,41-60,2
+Polk,61-80,5
+Polk,81+,1
+Tama,18-40,1
+Washingon,41-60,1
+Washingon,81+,1
+Winneshiek,41-60,1
+Woodbury,18-40,1
