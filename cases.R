@@ -25,6 +25,8 @@ read_cases_dir = function(path, pattern, into) {
 cases = read_cases_dir("cases", "*.csv", 
                       into = c("cases","date","csv")) %>%
   
+  dplyr::mutate(date = as.Date(date, format = "%Y%m%d")) %>%
+  
   select(date, county, age, count)
 
 readr::write_csv(cases, path = "cases.csv")

@@ -25,6 +25,8 @@ read_deaths_dir = function(path, pattern, into) {
 deaths = read_deaths_dir("deaths", "*.csv", 
                       into = c("deaths","date","csv")) %>%
   
+  dplyr::mutate(date = as.Date(date, format = "%Y%m%d")) %>%
+  
   select(date, county, age, count)
 
 readr::write_csv(deaths, path = "deaths.csv")
