@@ -1,0 +1,57 @@
+county,age,count
+Allamakee,18-40,2
+Benton,41-60,1
+Benton,61-80,2
+Black Hawk,18-40,9
+Black Hawk,41-60,3
+Black Hawk,61-80,3
+Bremer,61-80,1
+Buchanan,41-60,1
+Cass,41-60,1
+Cedar,18-40,1
+Clinton,18-40,2
+Clinton,41-60,1
+Clinton,61-80,1
+Des Moines,61-80,1
+Fayette,61-80,1
+Hardin,61-80,1
+Henry,61-80,1
+Jasper,41-60,1
+Johnson,18-40,3
+Johnson,41-60,3
+Johnson,61-80,1
+Jones,41-60,2
+Lee,61-80,1
+Linn,18-40,5
+Linn,41-60,5
+Linn,61-80,3
+Linn,81+,2
+Louisa,18-40,1
+Louisa,41-60,1
+Louisa,61-80,1
+Lyon,41-60,1
+Mahaska,41-60,1
+Marshall,18-40,1
+Marshall,41-60,4
+Marshall,61-80,1
+Mills,41-60,1
+Muscatine,18-40,2
+Muscatine,41-60,3
+Muscatine,61-80,1
+Polk,18-40,5
+Polk,41-60,5
+Polk,61-80,4
+Polk,81+,1
+Scott,18-40,1
+Scott,61-80,2
+Story,18-40,1
+Tama,18-40,4
+Tama,41-60,6
+Tama,61-80,1
+Tama,81+,4
+Van Buren,41-60,2
+Wapello,41-60,2
+Washington,18-40,1
+Washington,41-60,5
+Washington,61-80,2
+Woodbury,41-60,1
