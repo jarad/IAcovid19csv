@@ -1,6 +1,2 @@
-county,age
-Johnson,61-80
-Johnson,61-80
-Johnson,61-80
-Johnson,61-80
-Johnson,61-80
+county,age,count
+Johnson,61-80,5

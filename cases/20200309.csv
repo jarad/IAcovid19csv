@@ -1,6 +1,3 @@
-county,age
-Johnson,61-80
-Johnson,61-80
-Johnson,61-80
-Johnson,61-80
-Pottawattamie,41-60
+county,age,count
+Johnson,61-80,4
+Pottawattamie,41-60,1

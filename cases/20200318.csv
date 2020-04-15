@@ -1,10 +1,6 @@
-county,age
-Johnson,
-Johnson,
-Johnson,
-Polk,
-Polk,
-Dallas,
-Dallas,
-Washington,
-Winneshiek,
+county,age,count
+Johnson,,3
+Polk,,2
+Dallas,,2
+Washington,,1
+Winneshiek,,1

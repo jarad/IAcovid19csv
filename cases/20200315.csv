@@ -1,5 +1,5 @@
-county,age
-Allamakee,41-60
-Allamakee,0-18
-Johnson,41-60
-Polk,41-60
+county,age,count
+Allamakee,0-18,1
+Allamakee,41-60,1
+Johnson,41-60,1
+Polk,41-60,1
