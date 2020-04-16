@@ -1,0 +1,496 @@
+county,age,confirmed,deaths
+Adair,Child,0,0
+Adair,Adult,0,0
+Adair,Middle Age,1,0
+Adair,Older Adult,0,0
+Adair,Elderly,0,0
+Adams,Child,0,0
+Adams,Adult,0,0
+Adams,Middle Age,0,0
+Adams,Older Adult,0,0
+Adams,Elderly,0,0
+Allamakee,Child,2,0
+Allamakee,Adult,7,0
+Allamakee,Middle Age,9,0
+Allamakee,Older Adult,6,2
+Allamakee,Elderly,0,0
+Appanoose,Child,0,0
+Appanoose,Adult,0,0
+Appanoose,Middle Age,0,0
+Appanoose,Older Adult,0,0
+Appanoose,Elderly,1,1
+Audubon,Child,0,0
+Audubon,Adult,0,0
+Audubon,Middle Age,0,0
+Audubon,Older Adult,1,0
+Audubon,Elderly,0,0
+Benton,Child,1,0
+Benton,Adult,2,0
+Benton,Middle Age,12,0
+Benton,Older Adult,3,0
+Benton,Elderly,1,1
+Black Hawk,Child,1,0
+Black Hawk,Adult,39,0
+Black Hawk,Middle Age,29,0
+Black Hawk,Older Adult,12,0
+Black Hawk,Elderly,4,0
+Boone,Child,0,0
+Boone,Adult,1,0
+Boone,Middle Age,3,0
+Boone,Older Adult,0,0
+Boone,Elderly,0,0
+Bremer,Child,0,0
+Bremer,Adult,2,0
+Bremer,Middle Age,1,0
+Bremer,Older Adult,2,0
+Bremer,Elderly,4,0
+Buchanan,Child,0,0
+Buchanan,Adult,4,0
+Buchanan,Middle Age,3,0
+Buchanan,Older Adult,1,0
+Buchanan,Elderly,0,0
+Buena Vista,Child,0,0
+Buena Vista,Adult,0,0
+Buena Vista,Middle Age,2,0
+Buena Vista,Older Adult,0,0
+Buena Vista,Elderly,0,0
+Butler,Child,0,0
+Butler,Adult,0,0
+Butler,Middle Age,0,0
+Butler,Older Adult,1,0
+Butler,Elderly,0,0
+Calhoun,Child,0,0
+Calhoun,Adult,0,0
+Calhoun,Middle Age,0,0
+Calhoun,Older Adult,0,0
+Calhoun,Elderly,0,0
+Carroll,Child,0,0
+Carroll,Adult,0,0
+Carroll,Middle Age,0,0
+Carroll,Older Adult,1,0
+Carroll,Elderly,0,0
+Cass,Child,0,0
+Cass,Adult,0,0
+Cass,Middle Age,1,0
+Cass,Older Adult,0,0
+Cass,Elderly,0,0
+Cedar,Child,0,0
+Cedar,Adult,7,0
+Cedar,Middle Age,8,0
+Cedar,Older Adult,6,0
+Cedar,Elderly,1,0
+Cerro Gordo,Child,0,0
+Cerro Gordo,Adult,2,0
+Cerro Gordo,Middle Age,6,0
+Cerro Gordo,Older Adult,6,0
+Cerro Gordo,Elderly,0,0
+Cherokee,Child,0,0
+Cherokee,Adult,0,0
+Cherokee,Middle Age,0,0
+Cherokee,Older Adult,0,0
+Cherokee,Elderly,0,0
+Chickasaw,Child,0,0
+Chickasaw,Adult,1,0
+Chickasaw,Middle Age,1,0
+Chickasaw,Older Adult,0,0
+Chickasaw,Elderly,0,0
+Clarke,Child,0,0
+Clarke,Adult,1,0
+Clarke,Middle Age,1,0
+Clarke,Older Adult,0,0
+Clarke,Elderly,0,0
+Clay,Child,0,0
+Clay,Adult,1,0
+Clay,Middle Age,1,0
+Clay,Older Adult,0,0
+Clay,Elderly,0,0
+Clayton,Child,0,0
+Clayton,Adult,5,0
+Clayton,Middle Age,0,0
+Clayton,Older Adult,1,0
+Clayton,Elderly,1,1
+Clinton,Child,1,0
+Clinton,Adult,9,0
+Clinton,Middle Age,19,0
+Clinton,Older Adult,9,0
+Clinton,Elderly,0,0
+Crawford,Child,0,0
+Crawford,Adult,1,0
+Crawford,Middle Age,2,0
+Crawford,Older Adult,3,1
+Crawford,Elderly,0,0
+Dallas,Child,17,0
+Dallas,Adult,12,0
+Dallas,Middle Age,7,0
+Dallas,Older Adult,2,0
+Dallas,Elderly,0,0
+Davis,Child,0,0
+Davis,Adult,0,0
+Davis,Middle Age,0,0
+Davis,Older Adult,0,0
+Davis,Elderly,0,0
+Decatur,Child,0,0
+Decatur,Adult,0,0
+Decatur,Middle Age,0,0
+Decatur,Older Adult,0,0
+Decatur,Elderly,0,0
+Delaware,Child,0,0
+Delaware,Adult,0,0
+Delaware,Middle Age,0,0
+Delaware,Older Adult,2,0
+Delaware,Elderly,0,0
+Des Moines,Child,0,0
+Des Moines,Adult,2,0
+Des Moines,Middle Age,2,0
+Des Moines,Older Adult,3,0
+Des Moines,Elderly,0,0
+Dickinson,Child,0,0
+Dickinson,Adult,0,0
+Dickinson,Middle Age,0,0
+Dickinson,Older Adult,1,0
+Dickinson,Elderly,0,0
+Dubuque,Child,1,0
+Dubuque,Adult,4,0
+Dubuque,Middle Age,22,0
+Dubuque,Older Adult,9,1
+Dubuque,Elderly,1,0
+Emmet,Child,0,0
+Emmet,Adult,0,0
+Emmet,Middle Age,0,0
+Emmet,Older Adult,0,0
+Emmet,Elderly,0,0
+Fayette,Child,0,0
+Fayette,Adult,2,0
+Fayette,Middle Age,2,0
+Fayette,Older Adult,1,0
+Fayette,Elderly,0,0
+Floyd,Child,0,0
+Floyd,Adult,0,0
+Floyd,Middle Age,0,0
+Floyd,Older Adult,0,0
+Floyd,Elderly,0,0
+Franklin,Child,0,0
+Franklin,Adult,0,0
+Franklin,Middle Age,1,0
+Franklin,Older Adult,0,0
+Franklin,Elderly,0,0
+Fremont,Child,0,0
+Fremont,Adult,0,0
+Fremont,Middle Age,0,0
+Fremont,Older Adult,0,0
+Fremont,Elderly,0,0
+Greene,Child,0,0
+Greene,Adult,0,0
+Greene,Middle Age,1,0
+Greene,Older Adult,0,0
+Greene,Elderly,0,0
+Grundy,Child,0,0
+Grundy,Adult,0,0
+Grundy,Middle Age,1,0
+Grundy,Older Adult,0,0
+Grundy,Elderly,0,0
+Guthrie,Child,1,0
+Guthrie,Adult,1,0
+Guthrie,Middle Age,1,0
+Guthrie,Older Adult,0,0
+Guthrie,Elderly,0,0
+Hamilton,Child,0,0
+Hamilton,Adult,1,0
+Hamilton,Middle Age,0,0
+Hamilton,Older Adult,1,0
+Hamilton,Elderly,0,0
+Hancock,Child,0,0
+Hancock,Adult,0,0
+Hancock,Middle Age,1,0
+Hancock,Older Adult,2,0
+Hancock,Elderly,0,0
+Hardin,Child,0,0
+Hardin,Adult,0,0
+Hardin,Middle Age,1,0
+Hardin,Older Adult,0,0
+Hardin,Elderly,0,0
+Harrison,Child,0,0
+Harrison,Adult,1,0
+Harrison,Middle Age,3,0
+Harrison,Older Adult,8,0
+Harrison,Elderly,0,0
+Henry,Child,1,0
+Henry,Adult,9,0
+Henry,Middle Age,4,1
+Henry,Older Adult,5,0
+Henry,Elderly,3,0
+Howard,Child,0,0
+Howard,Adult,1,0
+Howard,Middle Age,0,0
+Howard,Older Adult,0,0
+Howard,Elderly,0,0
+Humboldt,Child,0,0
+Humboldt,Adult,0,0
+Humboldt,Middle Age,0,0
+Humboldt,Older Adult,0,0
+Humboldt,Elderly,0,0
+Ida,Child,0,0
+Ida,Adult,0,0
+Ida,Middle Age,0,0
+Ida,Older Adult,0,0
+Ida,Elderly,0,0
+Iowa,Child,0,0
+Iowa,Adult,4,0
+Iowa,Middle Age,2,0
+Iowa,Older Adult,1,0
+Iowa,Elderly,0,0
+Jackson,Child,0,0
+Jackson,Adult,1,0
+Jackson,Middle Age,2,0
+Jackson,Older Adult,1,0
+Jackson,Elderly,0,0
+Jasper,Child,0,0
+Jasper,Adult,4,0
+Jasper,Middle Age,7,0
+Jasper,Older Adult,3,0
+Jasper,Elderly,3,0
+Jefferson,Child,0,0
+Jefferson,Adult,2,0
+Jefferson,Middle Age,2,0
+Jefferson,Older Adult,0,0
+Jefferson,Elderly,0,0
+Johnson,Child,1,0
+Johnson,Adult,97,0
+Johnson,Middle Age,84,0
+Johnson,Older Adult,42,2
+Johnson,Elderly,2,1
+Jones,Child,0,0
+Jones,Adult,4,0
+Jones,Middle Age,6,0
+Jones,Older Adult,1,0
+Jones,Elderly,0,0
+Keokuk,Child,0,0
+Keokuk,Adult,1,0
+Keokuk,Middle Age,0,0
+Keokuk,Older Adult,1,0
+Keokuk,Elderly,0,0
+Kossuth,Child,0,0
+Kossuth,Adult,1,0
+Kossuth,Middle Age,0,0
+Kossuth,Older Adult,0,0
+Kossuth,Elderly,0,0
+Lee,Child,0,0
+Lee,Adult,0,0
+Lee,Middle Age,0,0
+Lee,Older Adult,2,0
+Lee,Elderly,0,0
+Linn,Child,2,0
+Linn,Adult,75,0
+Linn,Middle Age,93,1
+Linn,Older Adult,74,10
+Linn,Elderly,32,10
+Louisa,Child,0,0
+Louisa,Adult,71,0
+Louisa,Middle Age,71,0
+Louisa,Older Adult,19,0
+Louisa,Elderly,5,0
+Lucas,Child,0,0
+Lucas,Adult,0,0
+Lucas,Middle Age,0,0
+Lucas,Older Adult,0,0
+Lucas,Elderly,0,0
+Lyon,Child,0,0
+Lyon,Adult,2,0
+Lyon,Middle Age,1,0
+Lyon,Older Adult,1,0
+Lyon,Elderly,0,0
+Madison,Child,0,0
+Madison,Adult,0,0
+Madison,Middle Age,5,0
+Madison,Older Adult,1,1
+Madison,Elderly,1,0
+Mahaska,Child,0,0
+Mahaska,Adult,2,0
+Mahaska,Middle Age,0,0
+Mahaska,Older Adult,1,0
+Mahaska,Elderly,0,0
+Marion,Child,0,0
+Marion,Adult,2,0
+Marion,Middle Age,0,0
+Marion,Older Adult,1,0
+Marion,Elderly,0,0
+Marshall,Child,0,0
+Marshall,Adult,20,0
+Marshall,Middle Age,18,0
+Marshall,Older Adult,6,0
+Marshall,Elderly,0,0
+Mills,Child,0,0
+Mills,Adult,0,0
+Mills,Middle Age,2,0
+Mills,Older Adult,0,0
+Mills,Elderly,0,0
+Mitchell,Child,0,0
+Mitchell,Adult,0,0
+Mitchell,Middle Age,2,0
+Mitchell,Older Adult,0,0
+Mitchell,Elderly,0,0
+Monona,Child,1,0
+Monona,Adult,1,0
+Monona,Middle Age,0,0
+Monona,Older Adult,2,0
+Monona,Elderly,2,0
+Monroe,Child,0,0
+Monroe,Adult,0,0
+Monroe,Middle Age,0,0
+Monroe,Older Adult,0,0
+Monroe,Elderly,0,0
+Montgomery,Child,0,0
+Montgomery,Adult,0,0
+Montgomery,Middle Age,1,0
+Montgomery,Older Adult,0,0
+Montgomery,Elderly,0,0
+Muscatine,Child,4,0
+Muscatine,Adult,41,0
+Muscatine,Middle Age,58,1
+Muscatine,Older Adult,27,1
+Muscatine,Elderly,3,0
+O'Brien,Child,0,0
+O'Brien,Adult,0,0
+O'Brien,Middle Age,2,0
+O'Brien,Older Adult,1,0
+O'Brien,Elderly,0,0
+Osceola,Child,0,0
+Osceola,Adult,0,0
+Osceola,Middle Age,2,0
+Osceola,Older Adult,0,0
+Osceola,Elderly,0,0
+Page,Child,0,0
+Page,Adult,0,0
+Page,Middle Age,2,0
+Page,Older Adult,1,0
+Page,Elderly,0,0
+Palo Alto,Child,0,0
+Palo Alto,Adult,0,0
+Palo Alto,Middle Age,0,0
+Palo Alto,Older Adult,0,0
+Palo Alto,Elderly,0,0
+Plymouth,Child,0,0
+Plymouth,Adult,4,0
+Plymouth,Middle Age,0,0
+Plymouth,Older Adult,0,0
+Plymouth,Elderly,0,0
+Pocahontas,Child,0,0
+Pocahontas,Adult,0,0
+Pocahontas,Middle Age,0,0
+Pocahontas,Older Adult,0,0
+Pocahontas,Elderly,0,0
+Polk,Child,4,0
+Polk,Adult,72,1
+Polk,Middle Age,71,0
+Polk,Older Adult,62,3
+Polk,Elderly,15,3
+Pottawattamie,Child,1,0
+Pottawattamie,Adult,1,0
+Pottawattamie,Middle Age,8,1
+Pottawattamie,Older Adult,4,0
+Pottawattamie,Elderly,0,0
+Poweshiek,Child,0,0
+Poweshiek,Adult,1,0
+Poweshiek,Middle Age,1,0
+Poweshiek,Older Adult,3,1
+Poweshiek,Elderly,1,0
+Ringgold,Child,0,0
+Ringgold,Adult,0,0
+Ringgold,Middle Age,0,0
+Ringgold,Older Adult,0,0
+Ringgold,Elderly,0,0
+Sac,Child,0,0
+Sac,Adult,0,0
+Sac,Middle Age,0,0
+Sac,Older Adult,0,0
+Sac,Elderly,0,0
+Scott,Child,1,0
+Scott,Adult,37,0
+Scott,Middle Age,61,0
+Scott,Older Adult,25,0
+Scott,Elderly,5,0
+Shelby,Child,0,2
+Shelby,Adult,0,0
+Shelby,Middle Age,3,0
+Shelby,Older Adult,3,0
+Shelby,Elderly,1,0
+Sioux,Child,0,0
+Sioux,Adult,1,0
+Sioux,Middle Age,1,0
+Sioux,Older Adult,5,0
+Sioux,Elderly,0,0
+Story,Child,0,0
+Story,Adult,4,0
+Story,Middle Age,3,0
+Story,Older Adult,3,0
+Story,Elderly,1,0
+Tama,Child,0,0
+Tama,Adult,33,0
+Tama,Middle Age,39,0
+Tama,Older Adult,21,0
+Tama,Elderly,18,3
+Taylor,Child,0,0
+Taylor,Adult,1,0
+Taylor,Middle Age,0,0
+Taylor,Older Adult,0,0
+Taylor,Elderly,0,0
+Union,Child,0,0
+Union,Adult,0,0
+Union,Middle Age,0,0
+Union,Older Adult,1,0
+Union,Elderly,0,0
+Van Buren,Child,0,0
+Van Buren,Adult,1,0
+Van Buren,Middle Age,2,0
+Van Buren,Older Adult,5,0
+Van Buren,Elderly,0,0
+Wapello,Child,0,0
+Wapello,Adult,2,0
+Wapello,Middle Age,4,0
+Wapello,Older Adult,1,0
+Wapello,Elderly,0,0
+Warren,Child,1,0
+Warren,Adult,5,0
+Warren,Middle Age,8,0
+Warren,Older Adult,1,0
+Warren,Elderly,1,0
+Washington,Child,4,0
+Washington,Adult,26,0
+Washington,Middle Age,39,0
+Washington,Older Adult,28,2
+Washington,Elderly,4,2
+Wayne,Child,0,0
+Wayne,Adult,0,0
+Wayne,Middle Age,0,0
+Wayne,Older Adult,0,0
+Wayne,Elderly,0,0
+Webster,Child,0,0
+Webster,Adult,1,0
+Webster,Middle Age,0,0
+Webster,Older Adult,1,0
+Webster,Elderly,0,0
+Winnebago,Child,0,0
+Winnebago,Adult,1,0
+Winnebago,Middle Age,1,0
+Winnebago,Older Adult,0,0
+Winnebago,Elderly,0,0
+Winneshiek,Child,0,0
+Winneshiek,Adult,2,0
+Winneshiek,Middle Age,2,0
+Winneshiek,Older Adult,1,0
+Winneshiek,Elderly,0,0
+Woodbury,Child,0,0
+Woodbury,Adult,5,0
+Woodbury,Middle Age,13,0
+Woodbury,Older Adult,3,0
+Woodbury,Elderly,0,0
+Worth,Child,0,0
+Worth,Adult,0,0
+Worth,Middle Age,1,0
+Worth,Older Adult,0,0
+Worth,Elderly,0,0
+Wright,Child,0,0
+Wright,Adult,0,0
+Wright,Middle Age,1,0
+Wright,Older Adult,0,0
+Wright,Elderly,0,0
