@@ -26,11 +26,11 @@ casesUntil20200413 = read_cases_dir("raw/cases/Until20200413", "*.csv",
                       into = c("raw","cases","until","date","csv")) %>%
   
   dplyr::mutate(date = as.Date(date, format = "%Y%m%d"),
-                age = fct_recode(age, 
-                                 Child         = "0-17",
-                                 Adult         = "18-40",
-                                 `Middle Age`  = "41-60",
-                                 `Older Adult` = "61-80",
-                                 `Elderly`     = "81+")) %>%
+                age = dplyr::recode(age, 
+                                 `0-17` = "Child",
+                                 `18-40` = "Adult",
+                                 `41-60` = "Middle Age",
+                                 `61-80` = "Older Adult",
+                                 `81+`   = "Elderly")) %>%
   
   select(date, county, age, count)
