@@ -1,0 +1,36 @@
+county,Child,Adult,Elderly,Middle Age,Older Adult,
+Allamakee,,3,,4,,7
+Black Hawk,,5,0,20,3,28
+Bremer,,,,,3,3
+Cedar,,,,2,,2
+Clay,,,,,1,1
+Clinton,,,,,1,1
+Dallas,,1,,,,1
+Dubuque,,1,1,1,,3
+Guthrie,1,,,,,1
+Hardin,,1,,,,1
+Henry,,,,1,,1
+Howard,,1,,1,,2
+Iowa,,1,1,,,2
+Jasper,,1,,4,,5
+Johnson,,7,,9,3,19
+Jones,,,,1,,1
+Keokuk,,1,,,1,2
+Linn,2,12,,10,4,28
+Louisa,,2,,4,2,8
+Marion,,1,,,,1
+Marshall,,6,1,,1,8
+Muscatine,1,5,1,5,1,13
+Osceola,,,,,1,1
+Plymouth,,,,2,,2
+Polk,1,7,,7,1,16
+Poweshiek,,1,,,,1
+Scott,1,,,3,,4
+Story,,1,,-1,,
+Tama,,,,,2,2
+Wapello,,,,1,,1
+Warren,,,,1,,1
+Washington,,3,,,1,4
+Webster,,,,1,,1
+Woodbury,2,5,,2,1,10
+,8,65,4,78,26,
