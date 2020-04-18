@@ -1,4 +1,4 @@
-county,type,Child,Adult,Middle Age,Older Adult,Elderly,
+county,type,Child,Adult,Middle Age,Older Adult,Elderly,total
 Adair,confirmed,0,0,1,0,0,1
 Adair,deaths,0,0,0,0,0,0
 Adams,confirmed,,,,,,0
